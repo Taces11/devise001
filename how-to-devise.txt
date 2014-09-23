@@ -1,0 +1,25 @@
+  Devise setup
+
+======== add devise gem ============
+
+gem 'devise'  to gemfile
+
+========= install devise ===========
+
+bundle  
+
+====== install config files ========
+
+rails g devise:install
+
+====================================
+
+
+
+
+
+
+
+
+
+
